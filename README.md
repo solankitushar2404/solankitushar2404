@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI Explorer | Final-Year Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Open+to+Internship+FTE+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Open+to+Internship+and+Full-Time+Opportunities" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
